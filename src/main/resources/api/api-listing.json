@@ -1,0 +1,14 @@
+{
+    "name": "hybris Service",
+    "references":[
+        {
+            "namespace": "api",
+            "description": "API definition of pdfgen",
+            "path": "/",
+            "type": "raml",
+            "fileName": "pdfgen.raml",
+            "packageName": "ma.yaas.pdfgen.api.generated",
+            "async": false
+        }
+    ]
+}

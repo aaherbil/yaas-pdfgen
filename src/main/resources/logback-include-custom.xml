@@ -1,0 +1,3 @@
+<included>
+	<logger name="ma.yaas.pdfgen" level="DEBUG" />
+</included>
