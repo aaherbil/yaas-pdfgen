@@ -29,7 +29,7 @@ To install pdfgen in localhost, you must follow the steps:
     MONGODB_PORT=27017
     MONGODB_DBNAME=pdfgenDB`)
   - download pdfgen repository and run `mvn clean install` in the pdfgen folder
-  - run the jetty server : `mvn:jetty:run`
+  - run the jetty server : `mvn jetty:run`
 
 
 ## Examples

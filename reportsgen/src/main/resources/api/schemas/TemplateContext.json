@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title":"TemplateContext",
+  "type":"object",
+  "properties":
+  {
+     "parameters" : {
+       "$ref":"templateMap"
+     },
+     "fields" : {
+        "type":"array",
+        "items":
+        {
+          "$ref":"templateMap"
+        }
+     }
+  }
+}

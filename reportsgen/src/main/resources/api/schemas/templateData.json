@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title":"TemplateData",
+  "type":"object",
+  "properties":
+  {
+    "id":
+    {
+      "type":"string"
+    },
+    "context":
+    {
+      "$ref":"templateContext"
+    }
+  },
+  "required":["id"]
+}

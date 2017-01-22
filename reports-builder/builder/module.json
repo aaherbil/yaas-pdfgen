@@ -1,0 +1,12 @@
+{
+    "widgets": [
+        {
+            "id": "reportsmodule",
+            "title": "reportsmodule",
+            "settings": {
+                "viewUrl": "index.html",
+                "example_setting": "some value"
+            }
+        }
+    ]
+}
