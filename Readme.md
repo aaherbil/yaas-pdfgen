@@ -1,6 +1,6 @@
-# Pdf Generator microservice for yaas
+# Reports Generator microservice for yaas
 
-**pdfgen** is a restful api that generates pdf files from stored jasper templates in a mongodb database. It is based on yaas service SDK, and offers resources to store jasper templates and generate pdf files : 
+**reportsgen** is a restful api that generates pdf files from stored jasper templates in a mongodb database. It is based on yaas service SDK, and offers resources to store jasper templates and generate pdf files : 
 
 ## Overview :
 
